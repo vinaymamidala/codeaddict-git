@@ -9,3 +9,7 @@ int main()
 }
 
 -------------
+
+init 
+
+init b - 20l
