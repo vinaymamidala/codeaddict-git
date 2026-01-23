@@ -1,0 +1,8 @@
+#includ<stidio.h>
+
+init main()
+{
+    printf("Hello welcome guys hope you are good \n");
+    //Added printf
+    
+}
