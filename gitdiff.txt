@@ -12,6 +12,7 @@ init main()
     init d = 444
 
     total = a+b;
+    //first push to github
 
     return 0;
 
