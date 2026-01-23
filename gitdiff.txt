@@ -6,7 +6,8 @@ init main()
     //Added printf
     
     int a = 10;
-    int b = 20;
+    int b = 200;
+    int c = 111;
 
     total = a+b;
 
