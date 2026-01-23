@@ -5,4 +5,12 @@ init main()
     printf("Hello welcome guys hope you are good \n");
     //Added printf
     
+    int a = 10;
+    int b = 20;
+
+    total = a+b;
+
+    return 0;
+
+    //checking auto save
 }
