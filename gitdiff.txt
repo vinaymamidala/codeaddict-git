@@ -9,6 +9,8 @@ init main()
     int b = 200;
     int c = 111;
 
+    init d = 444
+
     total = a+b;
 
     return 0;
